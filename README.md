@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... python
 - 🌱 I’m currently learning ... ML
 - 💞️ I’m looking to collaborate on ... ML
-- 📫 How to reach me ...[linked in]
+- 📫 How to reach me ...[linked in](https://www.linkedin.com/in/rupam-das-2858071b4/)
 
 <!---
 coding-with-rupam/coding-with-rupam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
